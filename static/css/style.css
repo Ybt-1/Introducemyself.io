@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('https://avatars.githubusercontent.com/u/61608066?s=400&u=5a7cf3e3865310d4d5c093a15cda6a687e5dc14c&v=4');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 1175px;
     background-color: white;
 
 }
